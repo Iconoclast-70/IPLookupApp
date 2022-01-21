@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>geolocation</name>
+        <rest_message_function display_value="GetIPOrgInfo">408baaa72f850110fbe141e72799b67f</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 23:43:31</sys_created_on>
+        <sys_id>39ff3ae72fc50110fbe141e72799b672</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>geolocation</sys_name>
+        <sys_package display_value="IPLookup" source="x_736504_iplookup">520beae32f850110fbe141e72799b6e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">520beae32f850110fbe141e72799b6e0</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_39ff3ae72fc50110fbe141e72799b672</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-21 17:26:31</sys_updated_on>
+        <type>string</type>
+        <value>geo</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
